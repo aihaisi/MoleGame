@@ -1,0 +1,9 @@
+Library
+Logs
+ous
+Out
+
+Packages/*
+!/Packages/manifest.json
+!/Packages/packages-lock.json
+
